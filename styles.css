@@ -441,7 +441,7 @@ footer{
     width: 200px;
     height: auto;
     margin: center;
-    filter: drop-shadow(small);
+    filter: var(--filter-shadow-sm);
 }
 
 #section3 div::before{
