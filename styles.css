@@ -581,7 +581,7 @@ footer{
         - add the wood background texture from the images folder
 */
 #pattern1{
-    background: var(--light-gray) url("images/up-arrow.svg");
+    background: var(--light-gray) url("images/wood.png");
     background-size: 110%;
 }
 
