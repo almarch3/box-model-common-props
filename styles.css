@@ -440,7 +440,7 @@ footer{
     display: block;
     width: 200px;
     height: auto;
-    margin: center;
+    margin: auto;
     filter: var(--filter-shadow-sm);
 }
 
