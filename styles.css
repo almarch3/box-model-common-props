@@ -348,7 +348,7 @@ footer{
     font-size: 1.1rem;
     font-weight: bold;
     width: 50%;
-    box-shadow: 0 0 20px;
+    box-shadow: 20px;
 }
 
 /* For the paragraph with placeholder text */
@@ -364,6 +364,13 @@ footer{
     border: 6px solid var(--lt-blue);
     margin: 1rem auto 2rem auto;
     border-radius: 8px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+    width: 50%;
+    box-shadow: 20px;
 }
 
 /* For the last paragraph in the section */
