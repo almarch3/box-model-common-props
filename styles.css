@@ -553,6 +553,7 @@ footer{
 #bg-img-3{
     background-color: var(--lt-blue);
     margin: 0 auto;
+    background-image: url("images/puppy-photo.jpg");
     background-repeat: repeat;
 }
 
