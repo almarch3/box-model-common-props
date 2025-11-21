@@ -583,7 +583,7 @@ footer{
 #pattern1{
     background-color: var(--light-gray);
     background-size: 110%;
-    background-image: url(images/up-arrow.svg);
+    background-image: url("images/up-arrow.svg");
 }
 
 /* For the second div, the pattern is from from Hero Pattern. These actually give you SVG code to paste into your CSS */
