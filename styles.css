@@ -342,7 +342,13 @@ footer{
     padding: 16px;
     border: 4px solid var(--dk-blue);
     margin: 1rem auto;
-    border-radius: 0 24px 24px 0;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+    width: 50%;
+    box-shadow: 0 0 20px;
 }
 
 /* For the paragraph with placeholder text */
