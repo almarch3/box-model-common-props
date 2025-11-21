@@ -554,7 +554,7 @@ footer{
     background-color: var(--lt-blue);
     margin: 0 auto;
     background-image: url("images/puppy-photo.jpg");
-    background-repeat: repeat;
+    background-repeat: default;
 }
 
 /* For the fourth div, let's style this like the second div, but let's change the height of the div to 100px, so it fits the height of the image. It will make it look like the image and div are the same height */
@@ -581,7 +581,9 @@ footer{
         - add the wood background texture from the images folder
 */
 #pattern1{
-    
+    background-color: var(--light-gray);
+    background-size: 110%;
+    background-image: url(images/up-arrow.svg);
 }
 
 /* For the second div, the pattern is from from Hero Pattern. These actually give you SVG code to paste into your CSS */
